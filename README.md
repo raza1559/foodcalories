@@ -7,6 +7,7 @@ The key to a healthy diet is to eat the right amount of calories for how active 
 
 # Project Demo Links:
 github Reposistory Link: https://github.com/raza1559/foodcalories
+
 Azure project Demo link:https://zealous-grass-0cafb1810.2.azurestaticapps.net
 
 # Azure Technologies:
@@ -76,4 +77,6 @@ Java script.
 ![bot5](https://user-images.githubusercontent.com/118152557/210009901-4864add8-d128-475d-80c7-f2af319949e1.png)
 ![bot6](https://user-images.githubusercontent.com/118152557/210010026-206ea40d-092f-43ac-a314-13b0f3280328.png)
 ![bot7](https://user-images.githubusercontent.com/118152557/210009974-94f38872-be7d-4f10-92a2-48ee809c97e7.png)
+
+# Thank you...
 
