@@ -64,7 +64,8 @@ Java script.
 
 
 ## Contact us:
-![bot7](https://user-images.githubusercontent.com/118152557/210009843-a801ada7-1362-4389-a9e5-e7f4699bebfb.png)
+![contact us](https://user-images.githubusercontent.com/118152557/210010165-cdf1057e-7f44-45c1-b675-b7466f920568.png)
+
 
 
 ## BOt functionality:
